@@ -37,7 +37,8 @@ This project goes further:
 
 # Dataset
 
-**Source:** Online Retail II Dataset
+**Source:** Online Retail II Dataset 
+ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 ### Time Period
 
